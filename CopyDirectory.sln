@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{CAC1EAE2-D014-4544-8C4F-6B7F7DFEC703}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{64075E7B-7A66-4AEA-82E8-0D47825A8D32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyDirectory.UI.WinForms", "CopyDirectory.UI.WinForms\CopyDirectory.UI.WinForms.csproj", "{1DABAD9D-9866-4E7E-B91B-F800773655BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyDirectory.UI.ConsoleApp", "CopyDirectory.UI.ConsoleApp\CopyDirectory.UI.ConsoleApp.csproj", "{BB88A9CA-5440-4B66-831D-D79F5B447785}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyDirectory.UI.WpfApp", "CopyDirectory.UI.WpfApp\CopyDirectory.UI.WpfApp.csproj", "{F7088F2E-98CE-45EE-8A09-CB93E7E431C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyDirectory.Copier", "CopyDirectory.Copier\CopyDirectory.Copier.csproj", "{E761DF40-CAAC-4E23-88CD-13011CC4BC56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyDirectory.UnitTests", "CopyDirectory.UnitTests\CopyDirectory.UnitTests.csproj", "{7C3BBCBC-B5ED-4CFA-8FE6-DE0D06F4038F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DABAD9D-9866-4E7E-B91B-F800773655BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DABAD9D-9866-4E7E-B91B-F800773655BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DABAD9D-9866-4E7E-B91B-F800773655BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DABAD9D-9866-4E7E-B91B-F800773655BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB88A9CA-5440-4B66-831D-D79F5B447785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB88A9CA-5440-4B66-831D-D79F5B447785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB88A9CA-5440-4B66-831D-D79F5B447785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB88A9CA-5440-4B66-831D-D79F5B447785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7088F2E-98CE-45EE-8A09-CB93E7E431C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7088F2E-98CE-45EE-8A09-CB93E7E431C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7088F2E-98CE-45EE-8A09-CB93E7E431C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7088F2E-98CE-45EE-8A09-CB93E7E431C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E761DF40-CAAC-4E23-88CD-13011CC4BC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E761DF40-CAAC-4E23-88CD-13011CC4BC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E761DF40-CAAC-4E23-88CD-13011CC4BC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E761DF40-CAAC-4E23-88CD-13011CC4BC56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C3BBCBC-B5ED-4CFA-8FE6-DE0D06F4038F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3BBCBC-B5ED-4CFA-8FE6-DE0D06F4038F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3BBCBC-B5ED-4CFA-8FE6-DE0D06F4038F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3BBCBC-B5ED-4CFA-8FE6-DE0D06F4038F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1DABAD9D-9866-4E7E-B91B-F800773655BE} = {64075E7B-7A66-4AEA-82E8-0D47825A8D32}
+		{BB88A9CA-5440-4B66-831D-D79F5B447785} = {64075E7B-7A66-4AEA-82E8-0D47825A8D32}
+		{F7088F2E-98CE-45EE-8A09-CB93E7E431C8} = {64075E7B-7A66-4AEA-82E8-0D47825A8D32}
+		{E761DF40-CAAC-4E23-88CD-13011CC4BC56} = {CAC1EAE2-D014-4544-8C4F-6B7F7DFEC703}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84616E1A-3D36-4ECD-B8A3-D862D3B8ED36}
+	EndGlobalSection
+EndGlobal

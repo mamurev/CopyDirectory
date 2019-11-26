@@ -1,0 +1,6 @@
+C:\Projects\Other\Dcsl\CopyDirectory.Utility\bin\Debug\CopyDirectory.Utility.dll
+C:\Projects\Other\Dcsl\CopyDirectory.Utility\bin\Debug\CopyDirectory.Utility.pdb
+C:\Projects\Other\Dcsl\CopyDirectory.Utility\obj\Debug\CopyDirectory.Utility.csprojAssemblyReference.cache
+C:\Projects\Other\Dcsl\CopyDirectory.Utility\obj\Debug\CopyDirectory.Utility.csproj.CoreCompileInputs.cache
+C:\Projects\Other\Dcsl\CopyDirectory.Utility\obj\Debug\CopyDirectory.Utility.dll
+C:\Projects\Other\Dcsl\CopyDirectory.Utility\obj\Debug\CopyDirectory.Utility.pdb

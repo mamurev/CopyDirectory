@@ -1,0 +1,17 @@
+C:\Projects\Other\Dcsl\CopyDirectory.Utility\bin\Debug\CopyDirectory.Copier.dll
+C:\Projects\Other\Dcsl\CopyDirectory.Utility\bin\Debug\CopyDirectory.Copier.pdb
+C:\Projects\Other\Dcsl\CopyDirectory.Utility\obj\Debug\CopyDirectory.Copier.csprojAssemblyReference.cache
+C:\Projects\Other\Dcsl\CopyDirectory.Utility\obj\Debug\CopyDirectory.Copier.csproj.CoreCompileInputs.cache
+C:\Projects\Other\Dcsl\CopyDirectory.Utility\obj\Debug\CopyDirectory.Copier.dll
+C:\Projects\Other\Dcsl\CopyDirectory.Utility\obj\Debug\CopyDirectory.Copier.pdb
+C:\Projects\Other\Dcsl\CopyDirectory.Copier\bin\Debug\CopyDirectory.Copier.dll
+C:\Projects\Other\Dcsl\CopyDirectory.Copier\bin\Debug\CopyDirectory.Copier.pdb
+C:\Projects\Other\Dcsl\CopyDirectory.Copier\obj\Debug\CopyDirectory.Copier.csprojAssemblyReference.cache
+C:\Projects\Other\Dcsl\CopyDirectory.Copier\obj\Debug\CopyDirectory.Copier.csproj.CoreCompileInputs.cache
+C:\Projects\Other\Dcsl\CopyDirectory.Copier\obj\Debug\CopyDirectory.Copier.dll
+C:\Projects\Other\Dcsl\CopyDirectory.Copier\obj\Debug\CopyDirectory.Copier.pdb
+C:\Projects\Other\CopyDirectory\CopyDirectory.Copier\bin\Debug\CopyDirectory.Copier.dll
+C:\Projects\Other\CopyDirectory\CopyDirectory.Copier\bin\Debug\CopyDirectory.Copier.pdb
+C:\Projects\Other\CopyDirectory\CopyDirectory.Copier\obj\Debug\CopyDirectory.Copier.csprojAssemblyReference.cache
+C:\Projects\Other\CopyDirectory\CopyDirectory.Copier\obj\Debug\CopyDirectory.Copier.dll
+C:\Projects\Other\CopyDirectory\CopyDirectory.Copier\obj\Debug\CopyDirectory.Copier.pdb
