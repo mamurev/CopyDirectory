@@ -1,2 +1,2 @@
 # CopyDirectory
-A sample app to copy files in folders recursively
+A loosely coupled sample app to copy files in folders recursively
